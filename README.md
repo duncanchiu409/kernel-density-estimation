@@ -19,7 +19,7 @@ A range of kernel functions are commonly used: uniform, triangular, biweight, t
 4. Triangular kernel
 5. Time-varying kernel
 
-![KDEs in different Kernel Function](assets\KDE-Figure1.png)
+![KDEs in different Kernel Function](\assets\KDE-Figure1.png)
 
 Although the kernel function is important for the smoothness and shape of the density estimate. As the size of sample data increases, the impact of different kernel function decreases.
 
